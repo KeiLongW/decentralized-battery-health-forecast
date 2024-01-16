@@ -4,7 +4,7 @@ This repository contains the code for the paper [Decentralized Deep Learning App
 
 <!-- ![Decentralized platform training overview](./fl_platform_overview.png) -->
 <p align="center">
-  <img src="./fl_platform_overview.png" width="600">
+  <img src="./fl_platform_overview.png" width="900">
 </p>
 
 We propose the utilization of federated learning to train a lithium-ion battery health forecasting model in a decentralized manner.
