@@ -65,7 +65,7 @@ python train_fl_lstm.py --global_rounds 100 --use_preprocess_curve_ratios --lstm
 
 If you find this work helpful, please consider to star this repository and cite our paper:
 
-*Decentralized Deep Learning Approach for Lithium-Ion Batteries State of Health Forecasting Using Federated Learning* [DOI: [TTE.2024.3354551](https://doi.org/10.1109/TTE.2024.3354551)]
+*Decentralized Deep Learning Approach for Lithium-Ion Batteries State of Health Forecasting Using Federated Learning* [DOI: [10.1109/TTE.2024.3354551](https://doi.org/10.1109/TTE.2024.3354551)]
 
 ```
 @ARTICLE{10400512,
